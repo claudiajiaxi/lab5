@@ -1,0 +1,95 @@
+body {
+    margin: 0 auto;
+    width: 960px;
+    background-image: url(../images/nasa.jpg);
+    position: relative;
+  }
+  h1 {
+    font-family: "Nunito", sans-serif;
+    font-size: 30px;
+  }
+  .content {
+    background-color: #d2eebc;
+  }
+  h1 {
+    width: 940px;
+    text-align: center;
+    margin-bottom: 60px;
+    letter-spacing: 1px;
+    font-size: 3em;
+    margin-top: 0;
+    padding-top: 70px;
+  }
+  
+  .image-container {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+  }
+  
+  img {
+    width: 460px;
+  }
+  .second {
+    position: absolute;
+    right: 0px;
+  }
+  .table-container {
+    width: 940px;
+    margin: 60px auto;
+  }
+  .planets {
+    border-spacing: 8px;
+    width: 100%;
+  }
+  
+  td:nth-child(1) {
+    border: 1px solid;
+    padding: 10px 0;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+  }
+  
+  .style {
+    border: 1px solid;
+  }
+  td {
+    text-align: center;
+    border-style: solid;
+  }
+  th {
+    padding: 10px;
+  }
+  .superscript {
+    position: relative;
+    bottom: 5px;
+    font-size: 10px;
+    margin-left: 1px;
+  }
+  
+  th.solid {
+    background-color: #f6fbd9;
+  }
+  
+  th.gas {
+    background-color: #d9eefb;
+  }
+  
+  .solid {
+    background-color: #f6fbd9
+  }
+  .gas {
+    background-color: #d9eefb;
+  }
+  
+  .lines {
+    border: 6px dotted rgb(240, 128, 240);
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    width: 110px;
+    position: absolute;
+    top: 125px;
+    left: 420px;
+  }
