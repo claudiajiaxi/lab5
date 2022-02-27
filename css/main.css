@@ -69,22 +69,22 @@ th {
 }
 
 th.solid {
-  background-color: #fbd9f8;
+  background-color: #effbd9;
 }
 
 th.gas {
-  background-color: #d9fbdd;
+  background-color: #d9defb;
 }
 
 .solid {
-  background-color: #fbd9f8;
+  background-color: #fbd9db;
 }
 .gas {
   background-color: #d9fbdd;
 }
 
 .lines {
-  border: 6px dotted lightcoral;
+  border: 6px dotted rgb(128, 186, 240);
   border-left: 0px;
   border-right: 0px;
   border-top: 0px;
