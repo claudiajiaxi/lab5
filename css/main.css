@@ -69,18 +69,18 @@ th {
 }
 
 th.solid {
-  background-color: #effbd9;
+  background-color: #f2fbd9;
 }
 
 th.gas {
-  background-color: #d9defb;
+  background-color: #d9e2fb;
 }
 
 .solid {
-  background-color: #fbd9db;
+  background-color: #f2fbd9;
 }
 .gas {
-  background-color: #d9fbdd;
+  background-color: #d9e2fb;
 }
 
 .lines {
