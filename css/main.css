@@ -100,6 +100,14 @@ th.gas {
   background-color: antiquewhite;
   border-radius: 80px;
 }
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col {
+  flex: 1;
+}
     
 .box1{
 	height: 150px;
