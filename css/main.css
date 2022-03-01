@@ -66,63 +66,57 @@ p{
 	margin: 10px 50px;
 }
 
-.tb1{
-
-	
-
-}
-.tb1 table{
-	width: 1300px;
-	border: 2px solid;
-	border-color: white;
-	margin: auto;
-	text-align: center;
-
-}
-.tb1 table th{
-	background-color: rgba(179, 184, 188, 0.3);
-	color: #e83725;
-	font-family: 'Anton', sans-serif, cursive;
-	font-size: 1em;
-	height: 35px;
-}
-.tb1 table td{
-	background-color: rgba(76, 113, 139, 0.3);
+td:nth-child(1) {
+	border: 1px solid;
+	padding: 10px 0;
+	font-weight: bold;
+	background-color: black;
 	color: white;
-	height: 25px;
-	font-family: 'Comfortaa', cursive, sans-serif;
 }
-.wd1{
-	color: yellow;
-	font-family:'Audiowide', cursive, sans-serif;
-	font-size: 1em;
+  
+.style {
+	border: 1px solid;
+}
+td {
+	text-align: center;
+	border-style: solid;
+}
+th {
+	padding: 10px;
+}
+.superscript {
+	position: relative;
+	bottom: 5px;
+	font-size: 10px;
+	margin-left: 1px;
+}
+  
+th.solid {
+	background-color: #fbd9f8;
+}
+  
+th.gas {
+	background-color: #d9fbdd;
+}
+  
+.solid {
+	background-color: #fbd9f8;
+  }
+.gas {
+	background-color: #d9fbdd;
+}
+  
+.lines {
+	border: 6px dotted lightcoral;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	width: 110px;
+	position: absolute;
+	top: 125px;
+	left: 420px;
+}
 
-}
-#wd1{
-	color: yellow;
-	font-family:'Audiowide', cursive, sans-serif;
-	font-size: 1em;
-}
-#wd2{
-	color: yellow;
-	font-family:'Audiowide', cursive, sans-serif;
-	font-size: 1em;
-}
-#wd3{
-	color: yellow;
-	font-family:'Audiowide', cursive, sans-serif;
-	font-size: 1em;
-}
-#wd4{
-	color: yellow;
-	font-family:'Audiowide', cursive, sans-serif;
-	font-size: 1em;
-}
-#wd5{
-	color: yellow;
-	font-family:'Audiowide', cursive, sans-serif;
-	font-size: 1em;
-}
 .sup1{
 	vertical-align: super;
 	font-size: 0.6em;
