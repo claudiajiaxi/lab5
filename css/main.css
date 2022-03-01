@@ -93,6 +93,7 @@ th.gas {
   top: 125px;
   left: 420px;
 }
+
 .planet-image {
   border: 1px solid midnightblue;
   padding: 8px;
@@ -100,6 +101,7 @@ th.gas {
   background-color: antiquewhite;
   border-radius: 80px;
 }
+
     
 .box1{
 	height: 150px;
@@ -137,7 +139,7 @@ th.gas {
 	border: 4px solid;
 	border-color: #999999;
 	position: relative;
-	float: left;
+	float: right;
 	left: 23%;
 	overflow: hidden;
 }
@@ -151,7 +153,7 @@ th.gas {
 	border: 4px solid;
 	border-color: #ce260b;
 	position: relative;
-	float: left;
+	float: right;
 	left: 32%;
 	overflow: hidden;
 
