@@ -93,15 +93,14 @@ th.gas {
   top: 125px;
   left: 420px;
 }
+.planet-image {
+  border: 1px solid midnightblue;
+  padding: 8px;
+  margin: 8px;
+  background-color: antiquewhite;
+  border-radius: 80px;
 }
-
-img { /* Planet images */
-    width: 150px;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
     
-}
 .box1{
 	height: 150px;
 	width: 150px;
